@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-03T21:09:31 EDT" name="Default suite" finished-at="2023-04-03T21:10:23 EDT" duration-ms="51465">
+    <groups>
+    </groups>
+    <test started-at="2023-04-03T21:09:31 EDT" name="Default test" finished-at="2023-04-03T21:10:23 EDT" duration-ms="51465">
+      <class name="testCases.MainClass">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testCases.MainClass@4659191b]" started-at="2023-04-03T21:09:31 EDT" name="beforeMethod" finished-at="2023-04-03T21:09:35 EDT" duration-ms="3908" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="readAddressWritePrice()[pri:0, instance:testCases.MainClass@4659191b]" started-at="2023-04-03T21:09:35 EDT" name="readAddressWritePrice" finished-at="2023-04-03T21:10:23 EDT" duration-ms="47525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readAddressWritePrice -->
+      </class> <!-- testCases.MainClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
